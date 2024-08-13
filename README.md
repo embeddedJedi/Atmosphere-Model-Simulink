@@ -36,5 +36,6 @@ TM : is the molecular scale temperature at altitude H defined above:
 
 # 4. Speed of Sound
 
-![image](https://github.com/user-attachments/assets/ae3021e6-e5b3-478d-bf7e-15d9ea7f5ef2)
+![image](https://github.com/user-attachments/assets/2858a420-c7cf-43d5-a91b-50a5bdf3dcdd)
+
 
